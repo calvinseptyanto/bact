@@ -1,6 +1,6 @@
 import Lottie from "lottie-react";
-import animationData from "@/assets/chart.json"; // Adjust this path to your Lottie file
-import businessReport from "@/assets/business-report.svg";
+import animationData from "/public/chart.json"; // Adjust this path to your Lottie file
+import businessReport from "/business-report.svg";
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { MdKeyboardDoubleArrowDown } from "react-icons/md";

@@ -17,7 +17,7 @@ const sections = [
     Under the guidance of Professor Hong Ming, we are ready to tackle complex problems, develop innovative solutions with industry partners and most importantly, make a lasting impact on the business world .💡
     
     Stay tuned for updates on our projects, events, and industry collaborations. Let's connect, learn, and grow together! 🤝 🚀`,
-    imageUrl: "src/assets/session1",
+    imageUrl: "/session1",
     color: "red",
     downloadUrl:
       "https://docs.google.com/presentation/d/1qovguuUUOFPg7STjsqn0pZPXbPpHPwT49p2ZWPYHzP4/edit?usp=sharing",
@@ -25,7 +25,7 @@ const sections = [
   {
     title: "Session 2",
     description: `Exploring the art of data visualization in the realm of business analytics in our second sesion. Knowledge shared, skills honed, and insights gained. 📊💡 `,
-    imageUrl: "src/assets/session2",
+    imageUrl: "/session2",
     color: "amber",
     downloadUrl:
       "https://docs.google.com/presentation/d/12FYVaW8ReU8_K8g_UEKM_KBnCN2BOlcS7POAyx6L_98/edit?usp=sharing",
@@ -33,7 +33,7 @@ const sections = [
   {
     title: "Session 3",
     description: `📊 Our third session for NUS Business Analytics Consulting Team. We touched on Machine Learning algorithms and its real-world applications, ending off the session with a mini competition for best model😎. Stay tuned for more BACT insights and updates to come!`,
-    imageUrl: "src/assets/session3",
+    imageUrl: "/session3",
     color: "green",
     downloadUrl:
       "https://docs.google.com/presentation/d/1fGYzH8Ik2CMAsktJpYMaF-_luH8c21WXTOFKz2Oytgw/edit?usp=sharing",
@@ -41,7 +41,7 @@ const sections = [
   {
     title: "Session 4",
     description: `Exploring the power of classification and fine-tuning hyperparameters in our recent Business Analytics Consulting Team session. 📊💡`,
-    imageUrl: "src/assets/session4",
+    imageUrl: "/session4",
     color: "blue",
     downloadUrl:
       "https://docs.google.com/presentation/d/1FHUYtlI_S4fUyNN2mfxUrJBTi87bBpW9k7TPWiBrJVI/edit?usp=sharing",
@@ -49,7 +49,7 @@ const sections = [
   {
     title: "Session 5",
     description: `Wrapping up a successful AY23/24's semester 1 with NUS Business Analytics Consulting Team! 🚀 Our fifth session featured an insightful talk from Alteryx on data processing and visualization. Heartfelt thanks to Alteryx for the expertise shared, and a special shoutout to NUS BACT's dedicated senior and junior analysts for their active participation throughout the semester. Grateful for the teamwork and learning moments! 📊💼`,
-    imageUrl: "src/assets/session5",
+    imageUrl: "/session5",
     color: "purple",
     downloadUrl: "",
   },

@@ -137,7 +137,7 @@ function Portfolio() {
 }
 
 function convertDriveLink(imgUrl) {
-  if (!imgUrl) return "/src/assets/logo.png";
+  if (!imgUrl) return "//logo.png";
 
   const fileId = imgUrl.split("/d/")[1].split("/view")[0];
   return `https://drive.google.com/uc?export=view&id=${fileId}`;

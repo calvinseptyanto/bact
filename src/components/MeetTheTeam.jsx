@@ -11,7 +11,7 @@ const presMembers = [
       🐶 Has a cute doggo at home`,
     linkedinUrl: "https://www.linkedin.com/in/jiaawei/",
     instagramUrl: "https://www.instagram.com/jiaawe/",
-    imageUrl: "src/assets/team/Jia Wei.jpg",
+    imageUrl: "/team/Jia Wei.jpg",
   },
   {
     name: "Ding Xuan Seah",
@@ -21,7 +21,7 @@ const presMembers = [
      🍜 Can only take xiao la`,
     linkedinUrl: "https://www.linkedin.com/in/ding-xuan-seah/",
     instagramUrl: "https://www.instagram.com/dxseah2/",
-    imageUrl: "src/assets/team/Ding Xuan.png",
+    imageUrl: "/team/Ding Xuan.png",
   },
   {
     name: "Jason Zhi Hao Loh",
@@ -31,7 +31,7 @@ const presMembers = [
     🍲 Tomyum lover`,
     linkedinUrl: "https://www.linkedin.com/in/zhi-hao-lo/",
     instagramUrl: "https://www.instagram.com/lorddzhihao/",
-    imageUrl: "src/assets/team/Jason.png",
+    imageUrl: "/team/Jason.png",
   },
 ];
 
@@ -44,7 +44,7 @@ const genSecMembers = [
     🎹 Plays the piano`,
     linkedinUrl: "https://www.linkedin.com/in/ezra-tio-52a4a5142/",
     instagramUrl: "https://www.instagram.com/ezra.a.a.a.a/",
-    imageUrl: "src/assets/team/Ezra Tio.jpeg",
+    imageUrl: "/team/Ezra Tio.jpeg",
   },
   {
     name: "Phuong Ha",
@@ -54,7 +54,7 @@ const genSecMembers = [
     🚫 Don't let CS mods defeat u :’)`,
     linkedinUrl: "https://www.linkedin.com/in/ha-phuong-b83ba3234/",
     instagramUrl: "https://www.instagram.com/cth_phuong/",
-    imageUrl: "src/assets/team/Ha Phuong.jpg",
+    imageUrl: "/team/Ha Phuong.jpg",
   },
   {
     name: "Beverly Teo",
@@ -64,7 +64,7 @@ const genSecMembers = [
     🍽️ Slow eater but fast walker`,
     linkedinUrl: "https://www.linkedin.com/in/beverleyteo/",
     instagramUrl: "https://www.instagram.com/bever_leyteo/",
-    imageUrl: "src/assets/team/Beverley Teo.jpeg",
+    imageUrl: "/team/Beverley Teo.jpeg",
   },
   {
     name: "Jolene Seng",
@@ -73,7 +73,7 @@ const genSecMembers = [
     🍳 I like to cook!`,
     linkedinUrl: "https://www.linkedin.com/in/jolene-seng/",
     instagramUrl: "https://www.instagram.com/icbitsjo/",
-    imageUrl: "src/assets/team/Jolene.png",
+    imageUrl: "/team/Jolene.png",
   },
 ];
 
@@ -86,7 +86,7 @@ const pubsMembers = [
     🐀 Wants a pet rat :’)`,
     linkedinUrl: "https://www.linkedin.com/in/petrinakohlx/",
     instagramUrl: "https://www.instagram.com/petrinaaa.koh/",
-    imageUrl: "src/assets/team/Petrina.png",
+    imageUrl: "/team/Petrina.png",
   },
   {
     name: "Ryan Darius Lim",
@@ -96,7 +96,7 @@ const pubsMembers = [
     🎶 Loves listening to rock (plays the bass amateurly)`,
     linkedinUrl: "https://www.linkedin.com/in/ryan-darius-lim/",
     instagramUrl: "https://www.instagram.com/quadryan/",
-    imageUrl: "src/assets/team/Ryan Darius Lim.jpeg",
+    imageUrl: "/team/Ryan Darius Lim.jpeg",
   },
   {
     name: "Hye Won",
@@ -106,7 +106,7 @@ const pubsMembers = [
     🖌️ Likes doodling`,
     linkedinUrl: "https://www.linkedin.com/in/hyewon-jang-18a683262/",
     instagramUrl: "https://www.instagram.com/hyehanaa/",
-    imageUrl: "src/assets/team/HyeWon.png",
+    imageUrl: "/team/HyeWon.png",
   },
 ];
 

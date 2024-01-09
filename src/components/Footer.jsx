@@ -21,7 +21,7 @@ const Footer = () => {
           >
             <img
               className="w-40 h-40 sm:w-48 sm:h-48 mx-auto sm:mx-0" // Removed transform class
-              src="src/assets/logo.png"
+              src="/logo.png"
               alt="logo"
             />
             <p className="hidden sm:block text-sm sm:text-md mt-2">

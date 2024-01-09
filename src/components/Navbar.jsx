@@ -31,7 +31,7 @@ export default function Navbar() {
         className="sticky top-0 z-50 bg-gradient-to-br from-gray-100 to-gray-50 shadow-xl py-4 px-16 md:flex md:items-center md:justify-between max-md:hidden"
         style={{ opacity: navbarOpacity }}
       >
-        <img src="src/assets/logo.png" alt="Logo" className="mr-10 h-24" />
+        <img src="/logo.png" alt="Logo" className="mr-10 h-24" />
         <div className="flex space-x-4 font-medium">
           <Link
             // activeClass="bg-gradient-to-r from-blue-400 to-blue-600 text-white"
@@ -96,7 +96,7 @@ export default function Navbar() {
         style={{ opacity: navbarOpacity }}
         className="sticky top-0 z-50 md:hidden flex items-center justify-between bg-gradient-to-br from-gray-100 to-gray-50 shadow-xl p-4"
       >
-        <img src="src/assets/logo.png" alt="Logo" className="h-12" />
+        <img src="/logo.png" alt="Logo" className="h-12" />
         <button
           onClick={toggleSidebar}
           className="text-gray-800 hover:text-purple-600 transition-colors duration-300"
